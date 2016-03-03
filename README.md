@@ -1,2 +1,10 @@
 # RunningStick
-個人で作ったゲームの公開用リポジトリ
+
+ゲームジャンル:
+横スクロール2Dアクション
+
+操作方法：
+下記サイトで紹介しています
+
+http://mltmdkana.hatenablog.com/
+
